@@ -168,4 +168,4 @@ Commit `.cursor/skills/` in your application repo.
 
 ## License
 
-Add your chosen license here once the repository is public.
+MIT.
